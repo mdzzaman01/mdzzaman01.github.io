@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0}
+.body{}
+.main{margin: auto; }
+.mainmenu{background:black; overflow: hidden;}
+.mainmenu ul{margin:0;padding: 0;list-style: none;}
+.mainmenu ul li{float: left;}
+.mainmenu ul li a{display:block; color:white; padding:20px 30px; 
+			text-decoration: none; float:center}
+.mainmenu ul li a:hover{background:#f5b342;}
+.id{float:center;}
+.img{border:5px radious}
+.mango{float:right}
+.button{float:right; margin-bottom:25px;}
+.footer{background:black;color:white;margin:0; padding:20px 25px; display:block;}
